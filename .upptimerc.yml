@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: KA
+    url: https://kiena.vn
 
 status-website:
   baseUrl: /upptime
