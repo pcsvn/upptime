@@ -40,19 +40,19 @@
     "url": "https://kiena.vn",
     "icon": "https://icons.duckduckgo.com/ip3/kiena.vn.ico",
     "slug": "ka",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4308,
-    "timeDay": 4844,
-    "timeWeek": 4308,
-    "timeMonth": 4308,
-    "timeYear": 4308,
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 3772,
+    "timeDay": 3772,
+    "timeWeek": 3772,
+    "timeMonth": 3772,
+    "timeYear": 3772,
     "dailyMinutesDown": {
-      "2024-05-24": 0
+      "2024-05-24": 20
     }
   }
 ]
