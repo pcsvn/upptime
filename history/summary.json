@@ -22,9 +22,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 214,
     "timeMonth": 225,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "KA",
@@ -49,7 +51,7 @@
     "time": 5007,
     "timeDay": 3115,
     "timeWeek": 3613,
-    "timeMonth": 5083,
+    "timeMonth": 5078,
     "timeYear": 5007,
     "dailyMinutesDown": {
       "2024-07-06": 71,
