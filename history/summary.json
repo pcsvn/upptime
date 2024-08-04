@@ -42,7 +42,7 @@
     "url": "https://kiena.vn",
     "icon": "https://icons.duckduckgo.com/ip3/kiena.vn.ico",
     "slug": "ka",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
@@ -54,6 +54,7 @@
     "timeMonth": 3975,
     "timeYear": 4750,
     "dailyMinutesDown": {
+      "2024-08-04": 0,
       "2024-08-01": 66,
       "2024-07-25": 57,
       "2024-07-24": 20,
